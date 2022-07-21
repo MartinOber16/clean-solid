@@ -11,6 +11,7 @@ npm install
 ```
 
 Para ejecutar el proyecto, simplemente ejecuten
+
 ```
 yarn dev
 ó
